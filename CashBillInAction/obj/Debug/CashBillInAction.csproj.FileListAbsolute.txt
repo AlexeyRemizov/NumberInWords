@@ -1,0 +1,7 @@
+D:\projects\Api1262017\CashBillInAction\CashBillInAction\bin\Debug\CashBillInAction.exe.config
+D:\projects\Api1262017\CashBillInAction\CashBillInAction\bin\Debug\CashBillInAction.exe
+D:\projects\Api1262017\CashBillInAction\CashBillInAction\bin\Debug\CashBillInAction.pdb
+D:\projects\Api1262017\CashBillInAction\CashBillInAction\obj\Debug\CashBillInAction.csproj.CoreCompileInputs.cache
+D:\projects\Api1262017\CashBillInAction\CashBillInAction\obj\Debug\CashBillInAction.exe
+D:\projects\Api1262017\CashBillInAction\CashBillInAction\obj\Debug\CashBillInAction.pdb
+D:\projects\Api1262017\CashBillInAction\CashBillInAction\obj\Debug\CashBillInAction.csprojResolveAssemblyReference.cache
